@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kevin and I'm currently in my 3rd year at CSULB majoring in Computer Science.
+My name is Kevin and I'm currently in my 4th year at CSULB majoring in Computer Science.
 My favorite hobbies are playing video games and working on my own personal projects. 
 I'm excited to learn more about git and work on github. 
 <!--
