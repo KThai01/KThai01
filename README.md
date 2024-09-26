@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-My name is Kevin and I'm currently in my 4th year at CSULB majoring in Computer Science.
+My name is Kevin and I am a recent gradute from California State University Long Beach with a degree in Computer Science.
 My favorite hobbies are playing video games and working on my own personal projects. 
-I'm excited to learn more about git and work on github. 
 <!--
 **KThai01/KThai01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
